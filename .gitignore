@@ -1,2 +1,5 @@
 00_data/
 00_gcp_data/
+04_deep_learning/..00_gcp_data/
+04_deep_learning/.ipynb_checkpoints/
+04_deep_learning/model.png
